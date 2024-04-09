@@ -1,6 +1,5 @@
 Below is a template for a README.md file that you can use for your GitHub repository:
 
-```markdown
 # Automated Data Fetching Management System
 
 Automated Data Fetching Management System is a comprehensive solution for automating the process of data retrieval, processing, storage, and retrieval. It aims to streamline the management of research and analytical data by automating tedious tasks and providing efficient data handling capabilities.
@@ -62,6 +61,3 @@ This project is licensed under the [MIT License](LICENSE).
 - This project was inspired by my experience as an intern at [Company Name], where I observed the inefficiencies of manual data retrieval processes.
 - Special thanks to [Name] for their valuable feedback and support during the development of this project.
 
-```
-
-Replace placeholders such as `[Company Name]`, `[Name]`, `[your_username]`, and `[LICENSE]` with appropriate information specific to your project. You can also add sections such as "Deployment," "Testing," "Troubleshooting," or any other relevant information based on your project's needs. Make sure to include necessary instructions for installation, usage, and contribution to make it easier for users and contributors to engage with your project.
