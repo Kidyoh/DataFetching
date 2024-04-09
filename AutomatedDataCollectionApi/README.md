@@ -17,7 +17,7 @@ Automated Data Fetching Management System is a comprehensive solution for automa
 1. Clone the repository:
 
 ```
-git clone https://github.com/your_username/automated-data-management-system.git
+git clone https://github.com/kidyoh/DataFetching.git
 ```
 
 2. Install dependencies:
